@@ -14,4 +14,4 @@ from ..costumer import contact # We use the "." operator to navigate to the pare
 
 contact.contact_costumer()
 
-# As a best practice prefer to use the absolute import. Thats waht PEP 8 recommends.
+# As a best practice prefer to use the absolute import. Thats what PEP 8 recommends.
