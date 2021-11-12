@@ -1,8 +1,9 @@
 #Searching for Businesses
 import requests
+import config
 url = 'https://api.yelp.com/v3/businesses/search'
 headers = {
-    "Authorization": "Bearer " + api_key
+    "Authorization": "Bearer " + config.api_key
 }
 parmas = {
     "term":"Barber",
