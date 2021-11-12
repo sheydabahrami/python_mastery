@@ -1,4 +1,4 @@
-# 06 Sending Text Messages
+#Sending Text Messages
 
 from twilio.rest import Client # This class represents a client to twilio Rest API
 import config
